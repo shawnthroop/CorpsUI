@@ -1,0 +1,15 @@
+{
+  "originHash" : "ca62c675874f8e43481284ac0a9a52844705fd163eaa82fddfecc829bac379c4",
+  "pins" : [
+    {
+      "identity" : "corpsfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shawnthroop/CorpsFoundation.git",
+      "state" : {
+        "revision" : "496e1a4e923c26a332edcde0c8caa3eeb363d42c",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
